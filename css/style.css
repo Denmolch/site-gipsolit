@@ -15,7 +15,7 @@ section {
 
 .main {
   padding: 3rem 0 5rem;
-  background: #fff url(/img/main-bg.jpg) center center no-repeat;
+  background: #fff url(img/main-bg.jpg) center center no-repeat;
   background-size: cover; }
 
 .main-content {
